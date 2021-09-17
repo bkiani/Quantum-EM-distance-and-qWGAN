@@ -18,6 +18,6 @@ Instructions are given in each of the subfolders to run the files contained with
 
 * [Bobak Kiani](https://github.com/bkiani) (MIT) 
 * Giacomo De Palma (Scuola Normale Superiore)
-* Milad Marvian(University of New Mexico)
-* Zi-Wen Liu(Perimeter Institute)
+* Milad Marvian (University of New Mexico)
+* Zi-Wen Liu (Perimeter Institute)
 * Seth Lloyd (MIT)
