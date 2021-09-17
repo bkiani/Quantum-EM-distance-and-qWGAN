@@ -1,0 +1,14 @@
+font.size: 9
+text.usetex        : true
+
+lines.linewidth : 0.8
+lines.markersize : 2.0
+xtick.direction      : in
+ytick.direction      : in
+grid.color:     e8e6e4
+grid.linewidth: 0.25
+axes.titlesize: medium
+axes.labelsize:     medium
+xtick.labelsize: small
+ytick.labelsize: small
+legend.fontsize: small
